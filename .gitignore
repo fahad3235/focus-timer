@@ -1,0 +1,6 @@
+# Focus Timer is a static site — nothing to build, but ignore the usual suspects
+node_modules/
+dist/
+.DS_Store
+*.log
+.env
